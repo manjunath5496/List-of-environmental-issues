@@ -13,6 +13,7 @@
 <li><a href="#course12">Communications and Information Policy</a></li>
 <li><a href="#course13">Knowledge-Based Applications Systems</a></li>
 <li><a href="#course14">Quantum Complexity Theory</a></li>  
+<li><a href="#course15">Medical Computing</a></li>   
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Advanced Natural Language Processing</h2>
@@ -1455,4 +1456,55 @@
 </br>
 <p>Quantum computing with noninteracting particles (<a href="2/MIT6_845F10_npc_slides.pdf">PDF - 1.0MB</a>)</p>
 </br>
+<h2 id="course15">Medical Computing</h2>
+
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th>TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction: Nature of Modern Medicine and Medical Practice (<a href="2/lecture1.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Nature of Medical Data: Where it is and Where it is Not (<a href="2/lecture2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Patient Identification (<a href="2/lecture4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Countering Bioterrorism (<a href="2/lecture5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Diagnosis, Standards, Codification (<a href="2/lecture8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Patient Data Confidentiality and Security (<a href="2/lecture9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Decreasing Variability in Health Care (<a href="2/lecture10.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Genomic Medicine I: Population Genetics in the Post Genomic Era (<a href="2/lecture14.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Advanced Expert Systems (<a href="2/lecture18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Patient Monitoring (<a href="2/lecture19.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Genomic Medicine IV: Linking Genotypes and Phenotypes (<a href="2/lecture21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Genomic Medicine V: Reverse Engineering (<a href="2/lecture22.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
 
