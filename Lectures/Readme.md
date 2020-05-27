@@ -10,24 +10,8 @@
 <li><a href="#course9">Pervasive Human Centric Computing</a></li>
 <li><a href="#course10">Representation and Modeling for Image Analysis</a></li>
 <li><a href="#course11">Computational Evolutionary Biology</a></li>
-<li><a href="#course12">Probabilistic Systems Analysis and Applied Probability</a></li>
-<li><a href="#course13">Mathematics for Computer Science</a></li>
-<li><a href="#course14">Automata, Computability, and Complexity</a></li>
-<li><a href="#course15">Design and Analysis of Algorithms</a></li>
-<li><a href="#course16">Information and Entropy</a></li>
-<li><a href="#course17">Introduction to MATLAB</a></li>
-<li><a href="#course18">Great Ideas in Theoretical Computer Science</a></li>
-<li><a href="#course19">Practical Programming in C</a></li>
-<li><a href="#course20">Introduction to C Memory Management and C++ Object-Oriented Programming</a></li>
-<li><a href="#course21">Building Programming Experience: A Lead-In to 6.001</a></li>
-<li><a href="#course22">Introduction to Programming in Java</a></li>
-<li><a href="#course23">Java Preparation for 6.170</a></li>
-<li><a href="#course24">Introduction to C++</a></li>
-<li><a href="#course25">Software Studio</a></li>
-<li><a href="#course26">Algorithms for Computational Biology</a></li>
-<li><a href="#course27">Laboratory in Software Engineering</a></li>
-<li><a href="#course28">Performance Engineering of Software Systems</a></li> 
- <li><a href="#course29">A Gentle Introduction to Programming Using Python</a></li> 
+<li><a href="#course12">Communications and Information Policy</a></li>
+
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Advanced Natural Language Processing</h2>
@@ -1178,4 +1162,114 @@
 </table>
 
 </br>
+<h2 id="course12">Communications and Information Policy</h2>
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Module 1: Technology</strong></td>
+</tr>
+<tr class="alt-row">
+<td>A Quick Guide to the Internet (<a href="mod1_lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Application Design on the Internet (<a href="mod1_lec2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>EE 101 (<a href="mod1_lec3.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Internet Interconnection (<a href="mod1_lec4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Module 2: Policy Rationale and Methods</strong></td>
+</tr>
+<tr class="row">
+<td>Why have Regulators been so involved in Telecommunications? (<a href="mod2_lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Overview of Methods of Technical and Policy Analysis Applicable to the Final Project. Discussion of Problem Definition and Issue Framing for Topics with Interwoven Technical, Social, Economic, and Political Dimensions</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Module 3: Deep Dives into Four Topics</strong></td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Module 3a: Spectrum Policy</strong></td>
+</tr>
+<tr class="row">
+<td>Spectrum Management Reform, Part 1 (<a href="mod3a_intro.pdf">PDF 1</a>) (<a href="mod3a_lec1.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Spectrum Management Reform, Part 2 (<a href="mod3a_lec2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Module 3b: Information Policy</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Intellectual Property: Content and Digital Telecommunication Policy (<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="mod3b_lec1.pdf">PDF - 1.1 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Architecture and Control (<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="mod3b_lec2.pdf">PDF - 1.8 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Culture, Content and Copyright (<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="mod3b_lec3.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Module 3c: Interconnection</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Challenges for Convergence: Interconnection (<a href="mod3c_intro.pdf">PDF 1</a>) (<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="mod3c_slides.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="row">
+<td>Challenges for Convergence: Interconnection (cont.)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Module 3d: Broadband Access</strong></td>
+</tr>
+<tr class="row">
+<td>Competition in Access Networks (<a href="mod3d_lec1notes.pdf">PDF 1</a>) (<a href="mod3d_lec1slides.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Case Studies: VoIP (<a href="mod3d_lec2a_note.pdf">PDF 1</a>) (<a href="mod3d_lec2a_slde.pdf">PDF 2</a>), Municipal Broadband</td>
+</tr>
+<tr class="row">
+<td>Municipal Broadband (cont.)</td>
+</tr>
+<tr class="alt-row">
+<td>Network Neutrality (<a href="mod3d_lec3_4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Network Neutrality (cont.)</td>
+</tr>
+<tr class="alt-row">
+<td>IPTV (<a href="mod3d_iptv.pdf">PDF</a>) (Courtesy of Marie-Jos&eacute; Montpetit. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Module 4: Miscellaneous Topics</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Internet Governance</td>
+</tr>
+<tr class="row">
+<td>Open Access, or Making Money Openly (<a href="mod4_lec2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>One Laptop per Child (aka $100 Laptop); the Internet and Developing Countries</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Module 5: Student Presentations</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Classroom Presentations and Discussion</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
 
