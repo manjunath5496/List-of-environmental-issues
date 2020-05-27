@@ -6,7 +6,7 @@
 <li><a href="#course5">Integer Programming and Combinatorial Optimization</a></li>
 <li><a href="#course6">Network Optimization</a></li>
 <li><a href="#course7">Algebraic Techniques and Semidefinite Optimization</a></li>
-<li><a href="#course8">Introduction to Computer Science and Programming</a></li>
+<li><a href="#course8">Theory of Parallel Hardware</a></li>
 <li><a href="#course9">Introduction to Algorithms</a></li>
 <li><a href="#course10">Artificial Intelligence</a></li>
 <li><a href="#course11">Computer Language Engineering</a></li>
@@ -849,6 +849,106 @@
 </table>
 </br>
 
+<h2 id="course8">Theory of Parallel Hardware</h2>
 
 
 
+<table class="tablewidth50" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+<th id="col3" scope="col">SUPPORTING FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Systolic Computation (<a href="1/lect1.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Fast Addition (<a href="1/lect2.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Fast Multiplication (<a href="1/lect3.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Fast Division (<a href="1/lect4.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Matrix Computations (<a href="1/lect5.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Retiming (<a href="1/lect6.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Retiming II&nbsp;(<a href="1/lect7.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Clock Period (<a href="1/lect8.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Clock Period II (<a href="1/lect9.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Sorting on 1D and 2D Arrays&nbsp;(<a href="1/lect10.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Comparison Networks (<a href="1/lect11.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Interconnection Networks (<a href="1/lect12.pdf">PDF</a>)</td>
+<td headers="col3">Accompanying Slides (<a href="1/interconnection.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Interconnection Networks II (<a href="1/lect13.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Routing (<a href="1/lect14.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">VLSI (<a href="1/lect15.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">VLSI II (<a href="1/lect16.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">VLSI III (<a href="1/lect17.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">VLSI IV (<a href="1/lect18.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">VLSI Lowerbounds (<a href="1/lect19.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">VLSI Layout (<a href="1/lect20.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">VLSI Wrapup (<a href="1/lect21.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Area Universal Networks (<a href="1/lect22.pdf">PDF</a>)</td>
+<td headers="col3">Accompanying Slides (<a href="1/area_universal.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
