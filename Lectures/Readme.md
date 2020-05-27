@@ -1005,3 +1005,5 @@
 </tbody>
 </table>
 </br>
+<p>Final Exam with Solutions (<a href="2/fsol.pdf">PDF</a>)</p>
+</br>
