@@ -4,7 +4,7 @@
 <li><a href="#course3">Advanced Algorithms</a></li>
 <li><a href="#course4">Computational Functional Genomics</a></li>
 <li><a href="#course5">Integer Programming and Combinatorial Optimization</a></li>
-<li><a href="#course6">Elements of Software Construction</a></li>
+<li><a href="#course6">Network Optimization</a></li>
 <li><a href="#course7">Introduction to Computer Science and Programming in Python</a></li>
 <li><a href="#course8">Introduction to Computer Science and Programming</a></li>
 <li><a href="#course9">Introduction to Algorithms</a></li>
@@ -615,5 +615,133 @@
 </table>
 </br>
 
+<h2 id="course6">Network Optimization</h2>
 
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">PDF&nbsp;SLIDES</th>
+<th scope="col">PPT&nbsp;SLIDES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction to network models</td>
+<td>(<a href="MIT15_082JF10_lec01.pdf">PDF</a>)</td>
+<td>(<a href="MIT15_082JF10_lec01.ppt">PPT</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Computational complexity and data structures</td>
+<td>(<a href="MIT15_082JF10_lec02.pdf">PDF</a>)</td>
+<td><span class="nobr">(<a href="MIT15_082JF10_lec02.ppt">PPT - 1.5MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Graph search algorithms</td>
+<td>(<a href="MIT15_082JF10_lec03.pdf">PDF</a>)</td>
+<td>(<a href="MIT15_082JF10_lec03.ppt">PPT</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Transformations and flow decomposition</td>
+<td>(<a href="MIT15_082JF10_lec04.pdf">PDF</a>)</td>
+<td>(<a href="MIT15_082JF10_lec04.ppt">PPT</a>)</td>
+</tr>
+<tr class="row">
+<td>Shortest paths: label setting algorithms</td>
+<td>(<a href="MIT15_082JF10_lec05.pdf">PDF</a>)</td>
+<td><span class="nobr">(<a href="MIT15_082JF10_lec05.ppt">PPT - 1.1MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>The radix heap algorithm</td>
+<td>(<a href="MIT15_082JF10_lec06.pdf">PDF</a>)</td>
+<td>(<a href="MIT15_082JF10_lec06.ppt">PPT</a>)</td>
+</tr>
+<tr class="row">
+<td>Shortest paths: label correcting algorithms</td>
+<td>(<a href="MIT15_082JF10_lec07.pdf">PDF</a>)</td>
+<td>(<a href="MIT15_082JF10_lec07.ppt">PPT</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Algorithm analysis</td>
+<td>(<a href="MIT15_082JF10_lec08.pdf">PDF</a>)</td>
+<td>(<a href="MIT15_082JF10_lec08.ppt">PPT</a>)</td>
+</tr>
+<tr class="row">
+<td>Basic algorithms for the maximum flow problem</td>
+<td>(<a href="MIT15_082JF10_lec09.pdf">PDF</a>)</td>
+<td><span class="nobr">(<a href="MIT15_082JF10_lec09.ppt">PPT - 1.0MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Midterm 1 (Ses #1-8)</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Combinatorial applications of maximum flows</td>
+<td>(<a href="MIT15_082JF10_lec10.pdf">PDF</a>)</td>
+<td>(<a href="MIT15_082JF10_lec10.ppt">PPT</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Preflow push algorithms</td>
+<td>(<a href="MIT15_082JF10_lec11.pdf">PDF</a>)</td>
+<td>(<a href="MIT15_082JF10_lec11.ppt">PPT</a>)</td>
+</tr>
+<tr class="row">
+<td>More on preflow push algorithms</td>
+<td>(<a href="MIT15_082JF10_lec12.pdf">PDF</a>)</td>
+<td><span class="nobr">(<a href="MIT15_082JF10_lec12.ppt">PPT - 1.2MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Minimum cost flow: basic algorithms</td>
+<td>(<a href="MIT15_082JF10_lec13.pdf">PDF</a>)</td>
+<td>(<a href="MIT15_082JF10_lec13.ppt">PPT</a>)</td>
+</tr>
+<tr class="row">
+<td>Minimum cost flow: polynomial time algorithms</td>
+<td>(<a href="MIT15_082JF10_lec14.pdf">PDF</a>)</td>
+<td>(<a href="MIT15_082JF10_lec14.ppt">PPT</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Applications of network flows; Linear programming review</td>
+<td>(<a href="MIT15_082JF10_lec15.pdf">PDF</a>)</td>
+<td><span class="nobr">(<a href="MIT15_082JF10_lec15.ppt">PPT - 2.4MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>The network simplex algorithm</td>
+<td>(<a href="MIT15_082JF10_lec16.pdf">PDF</a>)</td>
+<td><span class="nobr">(<a href="MIT15_082JF10_lec16.ppt">PPT - 1.1MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>NP-completeness</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Midterm 2 (Ses #9-17)</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Lagrangian relaxation 1</td>
+<td>(<a href="MIT15_082JF10_lec19.pdf">PDF</a>)</td>
+<td><span class="nobr">(<a href="MIT15_082JF10_lec19.ppt">PPT - 1.3MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Lagrangian relaxation 2</td>
+<td>(<a href="MIT15_082JF10_lec20.pdf">PDF</a>)</td>
+<td><span class="nobr">(<a href="MIT15_082JF10_lec20.ppt">PPT - 1.0MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Multicommodity flows 1</td>
+<td>(<a href="MIT15_082JF10_lec21.pdf">PDF</a>)</td>
+<td>(<a href="MIT15_082JF10_lec21.ppt">PPT</a>)</td>
+</tr>
+<tr class="row">
+<td>Multicommodity flows 2</td>
+<td>(<a href="MIT15_082JF10_lec22.pdf">PDF</a>)</td>
+<td>(<a href="MIT15_082JF10_lec22.ppt">PPT</a>)</td>
+</tr>
+</tbody>
+</table>
 
+</br>
