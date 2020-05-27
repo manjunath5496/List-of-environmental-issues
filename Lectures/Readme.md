@@ -12,6 +12,7 @@
 <li><a href="#course11">Computational Evolutionary Biology</a></li>
 <li><a href="#course12">Communications and Information Policy</a></li>
 <li><a href="#course13">Knowledge-Based Applications Systems</a></li>
+<li><a href="#course14">Quantum Complexity Theory</a></li>  
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Advanced Natural Language Processing</h2>
@@ -1343,3 +1344,115 @@
 </tbody>
 </table>
 </br>
+<h2 id="course14">Quantum Complexity Theory</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Quantum basics</td>
+<td>(<a href="2/MIT6_845F10_lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>More quantum basics</td>
+<td>(<a href="2/MIT6_845F10_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Quantum circuits</td>
+<td>(<a href="2/MIT6_845F10_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>BQP and classical friends</td>
+<td>(<a href="2/MIT6_845F10_lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Quantum algorithms: Deutsch-Jozsa</td>
+<td>(<a href="2/MIT6_845F10_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Quantum algorithms: Simon's algorithm</td>
+<td>(<a href="2/MIT6_845F10_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Shor's algorithm and the hidden subgroup problem</td>
+<td>(<a href="2/MIT6_845F10_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Hidden subgroup problem and Grover's algorithm</td>
+<td>(<a href="2/MIT6_845F10_lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Grover's algorithm and BBBV</td>
+<td>(<a href="2/MIT6_845F10_lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Quantum query complexity lower bounds</td>
+<td>(<a href="2/MIT6_845F10_lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>More quantum query complexity</td>
+<td>(<a href="2/MIT6_845F10_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Query complexity and the collision problem</td>
+<td>(<a href="2/MIT6_845F10_lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The collision problem</td>
+<td>(<a href="2/MIT6_845F10_lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>BQP vs. PH and QMA</td>
+<td>(<a href="2/MIT6_845F10_lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>QMA</td>
+<td>(<a href="2/MIT6_845F10_lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>QMA and variants</td>
+<td>(<a href="2/MIT6_845F10_lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>QIP</td>
+<td>(<a href="2/MIT6_845F10_lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>PostBQP</td>
+<td>(<a href="2/MIT6_845F10_lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Closed timelike curves</td>
+<td>(<a href="2/MIT6_845F10_lec19.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>BQP/qpoly</td>
+<td>(<a href="2/MIT6_845F10_lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Quantum communication complexity</td>
+<td>(<a href="2/MIT6_845F10_lec21.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>More quantum communication complexity</td>
+<td>(<a href="2/MIT6_845F10_lec22.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Classical simulation</td>
+<td>(<a href="2/MIT6_845F10_lec23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Grab bag</td>
+<td>(<a href="2/MIT6_845F10_lec24.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>Quantum computing with noninteracting particles (<a href="2/MIT6_845F10_npc_slides.pdf">PDF - 1.0MB</a>)</p>
+</br>
+
