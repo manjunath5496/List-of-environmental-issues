@@ -3,7 +3,7 @@
 <li><a href="#course2">Natural Language and the Computer Representation of Knowledge</a></li>
 <li><a href="#course3">Advanced Algorithms</a></li>
 <li><a href="#course4">Computational Functional Genomics</a></li>
-<li><a href="#course5">Software Construction</a></li>
+<li><a href="#course5">Integer Programming and Combinatorial Optimization</a></li>
 <li><a href="#course6">Elements of Software Construction</a></li>
 <li><a href="#course7">Introduction to Computer Science and Programming in Python</a></li>
 <li><a href="#course8">Introduction to Computer Science and Programming</a></li>
@@ -499,4 +499,121 @@
 <p>"Spectral Clustering for Microrray Data," by Alvin Liang, Cameron Wheeler, and Grant Wang (<a href="spectral_cluster.pdf">PDF</a>)</p>
 <p>"Using Phylogenomics to Predict Novel Fungal Pathogenicity Genes," by Ying Li, David DeCaprio, and Hung Nguyen (<a href="phylogenomics.pdf">PDF</a>)</p>
 <p>"Whole-genome Analysis of GCN4 Binding in&nbsp;<em>S.cerevisiae</em>," by Alex Mallet, and Lillian Dai (<a href="gcn4.pdf">PDF</a>)</p>
+</br>
+<h2 id="course5">Integer Programming and Combinatorial Optimization</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Formulations</td>
+<td>(<a href="MIT15_083JF09_lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Complexity</td>
+<td>(<a href="MIT15_083JF09_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Methods to enhance formulations I</td>
+<td>(<a href="MIT15_083JF09_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Methods to enhance formulations II</td>
+<td>(<a href="MIT15_083JF09_lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Ideal formulations I</td>
+<td>(<a href="MIT15_083JF09_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Ideal formulations II</td>
+<td>(<a href="MIT15_083JF09_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Ideal formulations III</td>
+<td>(<a href="MIT15_083JF09_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Duality theory I</td>
+<td>(<a href="MIT15_083JF09_lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Duality theory II</td>
+<td>(<a href="MIT15_083JF09_lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Algorithms for solving relaxations</td>
+<td>(<a href="MIT15_083JF09_lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Robust discrete optimization</td>
+<td>(<a href="MIT15_083JF09_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Lattices I</td>
+<td>(<a href="MIT15_083JF09_lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Lattices II</td>
+<td>(<a href="MIT15_083JF09_lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Algebraic geometry I</td>
+<td>(<a href="MIT15_083JF09_lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Algebraic geometry II</td>
+<td>(<a href="MIT15_083JF09_lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Geometry</td>
+<td>(<a href="MIT15_083JF09_lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Cutting plane methods I</td>
+<td>(<a href="MIT15_083JF09_lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Cutting plane methods II</td>
+<td>(<a href="MIT15_083JF09_lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Enumerative methods</td>
+<td>(<a href="MIT15_083JF09_lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Heuristic methods</td>
+<td>(<a href="MIT15_083JF09_lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Approximation algorithsm I</td>
+<td>(<a href="MIT15_083JF09_lec21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Approximation algorithms II</td>
+<td>(<a href="MIT15_083JF09_lec22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Approximation algorithms III</td>
+<td>(<a href="MIT15_083JF09_lec23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Mixed integer optimization I</td>
+<td>(<a href="MIT15_083JF09_lec24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Mixed integer optimization II</td>
+<td>(<a href="MIT15_083JF09_lec25.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
 
