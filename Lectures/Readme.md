@@ -8,7 +8,7 @@
 <li><a href="#course7">Algebraic Techniques and Semidefinite Optimization</a></li>
 <li><a href="#course8">Theory of Parallel Hardware</a></li>
 <li><a href="#course9">Pervasive Human Centric Computing</a></li>
-<li><a href="#course10">Artificial Intelligence</a></li>
+<li><a href="#course10">Representation and Modeling for Image Analysis</a></li>
 <li><a href="#course11">Computer Language Engineering</a></li>
 <li><a href="#course12">Probabilistic Systems Analysis and Applied Probability</a></li>
 <li><a href="#course13">Mathematics for Computer Science</a></li>
@@ -1104,5 +1104,28 @@
 </tbody>
 </table>
 </br>
+<h2 id="course10">Representation and Modeling for Image Analysis</h2>
 
 
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Introduction, Tutorial on PCA (<a href="2/l01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Eigenfaces (<a href="2/l02.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Shape Based Curve Evolution (<a href="2/shapecurves.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Belief Propagation (<a href="2/bptutorial.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
