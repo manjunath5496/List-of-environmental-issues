@@ -13,7 +13,8 @@
 <li><a href="#course12">Communications and Information Policy</a></li>
 <li><a href="#course13">Knowledge-Based Applications Systems</a></li>
 <li><a href="#course14">Quantum Complexity Theory</a></li>  
-<li><a href="#course15">Medical Computing</a></li>   
+<li><a href="#course15">Medical Computing</a></li>
+ <li><a href="#course16">Medical Decision Support</a></li> 
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Advanced Natural Language Processing</h2>
@@ -1506,5 +1507,63 @@
 </tbody>
 </table>
 </br>
+<h2 id="course16">Medical Decision Support</h2>
 
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="alt-row" style="height: 13px;">
+<th id="tbl693id0_1" style="height: 13px;" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;" headers="tbl693id0_1">Introduction to Course&nbsp;<span class="nobr">(<a href="2/hst951_1.pdf">PDF - 1.2 MB</a>)</span></td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;" headers="tbl693id0_1">Decision Analysis 1 (<a href="2/hst951_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;" headers="tbl693id0_1">Decision Analysis 2, Linear Regression (<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/hst951_3.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;" headers="tbl693id0_1">Logistic Regression, MLE (<a href="2/hst951_4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;" headers="tbl693id0_1">Evaluation (<a href="2/hst951_5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;" headers="tbl693id0_1">Ensemble Models (<a href="2/hst951_6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;" headers="tbl693id0_1">PCA, LDA (<a href="2/hst951_7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;" headers="tbl693id0_1">Unsupervised Learning (<a href="2/hst951_8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;" headers="tbl693id0_1">Neural Networks (<a href="2/hst951_9.pdf">PDF - 1.2 MB</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;" headers="tbl693id0_1">Homework 2 - Trees and Rules</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;" headers="tbl693id0_1">Review (<a href="2/review_hst951.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;" headers="tbl693id0_1">Survival Analysis (<a href="2/hst951_sur_anal.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;" headers="tbl693id0_1">Statistical Learning Theory (<a href="2/proplogic_sets.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;" headers="tbl693id0_1">Model Construction Schemas 1 (<a href="2/hst951_gen_fuz.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;" headers="tbl693id0_1">Analysis of Problems, Complexity (<a href="2/hst951_gen_fuz.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;" headers="tbl693id0_1">Bioinformatics 1 (Hypothesis Generation, Sequence Alignment) (<a href="2/hst951biocl_hout.pdf">PDF 1</a>) (<a href="2/hst951gprac_hand.pdf">PDF 2</a>) experiment.r (<a href="2/experiment.r">R</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
