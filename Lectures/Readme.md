@@ -9,7 +9,7 @@
 <li><a href="#course8">Theory of Parallel Hardware</a></li>
 <li><a href="#course9">Pervasive Human Centric Computing</a></li>
 <li><a href="#course10">Representation and Modeling for Image Analysis</a></li>
-<li><a href="#course11">Computer Language Engineering</a></li>
+<li><a href="#course11">Computational Evolutionary Biology</a></li>
 <li><a href="#course12">Probabilistic Systems Analysis and Applied Probability</a></li>
 <li><a href="#course13">Mathematics for Computer Science</a></li>
 <li><a href="#course14">Automata, Computability, and Complexity</a></li>
@@ -1156,3 +1156,26 @@
 </tbody>
 </table>
 </br>
+<h2 id="course11">Computational Evolutionary Biology</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction: The Basic Dynamical Systems of Evolution (<a href="2/lec1_sum.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Evolution at the Molecular Level I (<a href="2/molecular_evltn.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Host-parasite Interactions and Disease Models (<a href="2/lec19_sex.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
