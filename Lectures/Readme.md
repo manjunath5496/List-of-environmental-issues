@@ -11,7 +11,7 @@
 <li><a href="#course10">Representation and Modeling for Image Analysis</a></li>
 <li><a href="#course11">Computational Evolutionary Biology</a></li>
 <li><a href="#course12">Communications and Information Policy</a></li>
-
+<li><a href="#course13">Knowledge-Based Applications Systems</a></li>
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Advanced Natural Language Processing</h2>
@@ -1270,6 +1270,76 @@
 </tbody>
 </table>
 </br>
+<h2 id="course13">Knowledge-Based Applications Systems</h2>
 
 
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Introduction and Background</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Course Organization; Spirit of the Undertaking (<a href="lect01_intro.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Tell it What to Know; Search (<a href="lect02_know.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>The Spirit and Pragmatics of KBS</strong></td>
+</tr>
+<tr class="row">
+<td>Origins of KBS: MACSYMA and DENDRAL (<a href="lect03_dendral.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Application Analysis Case Study: Case Introduction (<a href="lect04_case.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Rule-Based Systems (<a href="lect06_rules.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Knowledge Representation and Reasoning Paradigms</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Semantic Nets (<a href="lect07_semcnets.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Logic (<a href="lect08_logic.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Frame-Based Systems (<a href="lect09_frames.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Uncertain Reasoning, Models of Rationality (<a href="lect10_uncert.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Pragmatic Issues in Knowledge Acquisition&nbsp;(<a href="lect12_pragmatic.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Summary of Knowledge Representation (<a href="lect13_whatkr.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Problem Solving Paradigms</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Causal Reasoning (<a href="lect14_causal.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Model-Based Reasoning (<a href="lect15_mbr.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Reasoning with Constraints (<a href="lect17_constrain.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Research Issues</strong></td>
+</tr>
+<tr class="row">
+<td>Ontologies and Data Mining (<a href="lect22_ontolog.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
