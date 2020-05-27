@@ -7,7 +7,7 @@
 <li><a href="#course6">Network Optimization</a></li>
 <li><a href="#course7">Algebraic Techniques and Semidefinite Optimization</a></li>
 <li><a href="#course8">Theory of Parallel Hardware</a></li>
-<li><a href="#course9">Introduction to Algorithms</a></li>
+<li><a href="#course9">Pervasive Human Centric Computing</a></li>
 <li><a href="#course10">Artificial Intelligence</a></li>
 <li><a href="#course11">Computer Language Engineering</a></li>
 <li><a href="#course12">Probabilistic Systems Analysis and Applied Probability</a></li>
@@ -1007,3 +1007,102 @@
 </br>
 <p>Final Exam with Solutions (<a href="2/fsol.pdf">PDF</a>)</p>
 </br>
+<h2 id="course9">Pervasive Human Centric Computing</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Overview</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>iPAQ, Python&reg;, Connectivity</td>
+<td>(<a href="l2_python_intro.pdf">PDF - 2. 2 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Socket Programming and Bluetooth</td>
+<td>(<a href="l3.pdf">PDF - 1.7 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Discussion of Readings (cont.)<br /><br />Bluetooth Tutorial Slides</td>
+<td>Bluetooth Tutorial (<a href="r2_bluetooth_tut.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>More Bluetooth</td>
+<td>(<a href="l4.pdf">PDF - 2.1 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Location - GPS</td>
+<td>Location, Location, Location&nbsp;<span class="nobr">(<a href="l5a.pdf">PDF - 3.8 MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Location - API</td>
+<td>(<a href="l6_proximity.pdf">PDF - 4.1 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Location - Cricket</td>
+<td>(<a href="l7_batscrickets.pdf">PDF - 1.2 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Python&reg; on Series 60 Phones</td>
+<td>(<a href="l8_symbianpython.pdf">PDF - 5.0 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>User Interface GUIs, More Phone Programming</td>
+<td>(<a href="l9_symbpythonii.pdf">PDF - 3.7 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Keyboards and GUIs<br /><br />The Dasher Project</td>
+<td>Keyboards and GUIs (<a href="l10_gui.pdf">PDF - 2.2 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>GUIs (cont.)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>XWand and Arrays</td>
+<td>(<a href="l12_arrays.pdf">PDF - 1.8 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Pre-Recorded Speech</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Pre-Recorded Speech (cont.)</td>
+<td>Speech II (<a href="l14_simplespeech.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Vision</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Kiosk</td>
+<td>(<a href="l16_kiosk.pdf">PDF - 2.7 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Sketching</td>
+<td>(<a href="l17_sketch.pdf">PDF - 4.7 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Security</td>
+<td>(<a href="l18_security.pdf">PDF - 3.7 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Debugging</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l19_spchanim_bbg.pdf">PDF - 3.9 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Publish-Subscribe and Middleware</td>
+<td>(<a href="l20_publish_subs.pdf">PDF - 3.0 MB</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
