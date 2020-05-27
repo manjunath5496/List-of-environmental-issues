@@ -495,5 +495,8 @@
 </tbody>
 </table>
 </br>
-
+<p>"Modeling the Human Transcriptome using Factor Analysis," by Garrett Frampton (<a href="transcriptome.pdf">PDF</a>)</p>
+<p>"Spectral Clustering for Microrray Data," by Alvin Liang, Cameron Wheeler, and Grant Wang (<a href="spectral_cluster.pdf">PDF</a>)</p>
+<p>"Using Phylogenomics to Predict Novel Fungal Pathogenicity Genes," by Ying Li, David DeCaprio, and Hung Nguyen (<a href="phylogenomics.pdf">PDF</a>)</p>
+<p>"Whole-genome Analysis of GCN4 Binding in&nbsp;<em>S.cerevisiae</em>," by Alex Mallet, and Lillian Dai (<a href="gcn4.pdf">PDF</a>)</p>
 
