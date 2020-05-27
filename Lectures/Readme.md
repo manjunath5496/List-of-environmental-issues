@@ -952,3 +952,56 @@
 </tbody>
 </table>
 </br>
+
+
+<table class="tablewidth50" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col1" scope="col">ASSIGNMENTS</th>
+<th id="col2" scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col1">Problem Set 1 (<a href="2/ps1.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="2/sol1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Problem Set 2 (<a href="2/ps2.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="2/sol2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Problem Set 3 (<a href="2/ps3.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="2/sol3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Problem Set 4 (<a href="2/ps4.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="2/sol4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Problem Set 5 (<a href="2/ps5.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="2/sol5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Problem Set 6 (<a href="2/ps6.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="2/sol6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Problem Set 7 (<a href="2/ps7.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="2/sol7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Problem Set 8 (<a href="2/ps8.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="2/sol8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Problem Set 9 (<a href="2/ps9.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="2/sol9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Problem Set 10 (<a href="2/ps10.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="2/sol10.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
