@@ -1129,3 +1129,30 @@
 </tbody>
 </table>
 </br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col1" scope="col" abbr="Week Number">PROJECTS</th>
+<th id="col2" scope="col">REPORTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col1">Xiaogang Wang and Chaowei Niu, "Interaction Detection in Far-Field Visual Surveillance"</td>
+<td headers="col2">(<a href="6881_niu.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Wanmei Ou, "fMRI Detection via Variational EM Approach"</td>
+<td headers="col2"><span class="nobr">(<a href="6881_ou.pdf">PDF - 1.0 MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td headers="col1">Kush R. Varshney, "Application of Locally Linear Embedding to the Spaces of Social Interactions and Signed Distance Functions"</td>
+<td headers="col2">(<a href="6881_varshney.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Diane E. Hirsh, "Massively Multi-target Tracking for Objects in Clutter"</td>
+<td headers="col2">(<a href="6881_hirsh.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
