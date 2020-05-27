@@ -2,7 +2,7 @@
 <li><a href="#course1">Advanced Natural Language Processing</a></li>
 <li><a href="#course2">Natural Language and the Computer Representation of Knowledge</a></li>
 <li><a href="#course3">Advanced Algorithms</a></li>
-<li><a href="#course4">Effective Programming in C and C++</a></li>
+<li><a href="#course4">Computational Functional Genomics</a></li>
 <li><a href="#course5">Software Construction</a></li>
 <li><a href="#course6">Elements of Software Construction</a></li>
 <li><a href="#course7">Introduction to Computer Science and Programming in Python</a></li>
@@ -408,3 +408,92 @@
 </tbody>
 </table>
 </br>
+<h2 id="course4">Computational Functional Genomics</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr class="alt-row">
+<th id="tbl433id0_1" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2" headers="tbl433id0_0"><strong>Part 1: Using DNA Sequence to Explain Mechanism</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl433id0_1">Course Introduction (<a href="lecture_1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl433id0_1">Pairwise Alignment (<a href="lecture_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl433id0_1">Finding Regulatory Sequences in DNA: Motif Discovery (<a href="lecture_3and4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Finding Regulatory Sequences in DNA: Motif Discovery (cont.) (<a href="lecture_3and4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2" headers="tbl433id0_0"><strong>Part 2: Observing the Mechanism of Transcriptional Regulation</strong></td>
+</tr>
+<tr class="row">
+<td headers="tbl433id0_1">Microarray Technology (<a href="lecture_5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl433id0_1">Expression Arrays, Normalization, and Error Models (<a href="lecture_6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl433id0_1">Expression Profiles, Clustering, and Latent Processes (<a href="lecture_7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl433id0_1">Computational Functional Genomics (<a href="lecture_8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl433id0_1">Stem Cells and Transcriptional Regulation</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl433id0_1">Part One: An Example of Clustering Expression Data (<a href="lecture_10pt1.pdf">PDF</a>)<br /><br />Part Two: Computational Functional Genomics (cont.) (<a href="lecture_10pt2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Project Group Meetings</td>
+</tr>
+<tr class="alt-row">
+<td>Project Group Initial Presentations</td>
+</tr>
+<tr class="row">
+<td headers="tbl433id0_1">Computational Discovery of Regulatory Networks&nbsp;<span class="nobr">(<a href="lecture_11_gerber.pdf">PDF - 2.3 MB</a>)</span>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl433id0_1">RNA Silencing (<a href="lecture12_bartel.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2" headers="tbl433id0_0"><strong>Part 3: Building Predictive Network Models of Transcriptional Regulation</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl433id0_1">Computational Functional Genomics (cont.) (<a href="lecture_13.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl433id0_1">Human Regulatory Networks (<a href="lecture_14.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl433id0_1">Protein Networks</td>
+</tr>
+<tr class="row">
+<td headers="tbl433id0_1">Causal Models (<a href="lecture_16.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl433id0_1">Causal Bayesian Networks, Active Learning (<a href="lecture_17.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl433id0_1">From Biological Data to Biological Insight (<a href="lec19_friedman.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td headers="tbl433id0_1">Modeling Transcriptional Regulation (<a href="lecture_20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl433id0_1">Dynamics</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
