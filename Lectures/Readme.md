@@ -1523,7 +1523,7 @@
 <td style="height: 13px;" headers="tbl693id0_1">Decision Analysis 1 (<a href="2/hst951_2.pdf">PDF</a>)</td>
 </tr>
 <tr class="row" style="height: 13px;">
-<td style="height: 13px;" headers="tbl693id0_1">Decision Analysis 2, Linear Regression (<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/hst951_3.pdf">PDF</a>)</td>
+<td style="height: 13px;" headers="tbl693id0_1">Decision Analysis 2, Linear Regression (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/hst951_3.pdf">PDF</a>)</td>
 </tr>
 <tr class="row" style="height: 13px;">
 <td style="height: 13px;" headers="tbl693id0_1">Logistic Regression, MLE (<a href="2/hst951_4.pdf">PDF</a>)</td>
