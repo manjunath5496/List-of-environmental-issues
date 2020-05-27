@@ -5,7 +5,7 @@
 <li><a href="#course4">Computational Functional Genomics</a></li>
 <li><a href="#course5">Integer Programming and Combinatorial Optimization</a></li>
 <li><a href="#course6">Network Optimization</a></li>
-<li><a href="#course7">Introduction to Computer Science and Programming in Python</a></li>
+<li><a href="#course7">Algebraic Techniques and Semidefinite Optimization</a></li>
 <li><a href="#course8">Introduction to Computer Science and Programming</a></li>
 <li><a href="#course9">Introduction to Algorithms</a></li>
 <li><a href="#course10">Artificial Intelligence</a></li>
@@ -745,3 +745,110 @@
 </table>
 
 </br>
+<h2 id="course7">Algebraic Techniques and Semidefinite Optimization</h2>
+
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction<br /><br />Review of Convexity and Linear Programming</td>
+<td>(<a href="1/lecture_01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>PSD Matrices<br /><br />Semidefinite Programming</td>
+<td>(<a href="1/lecture_02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Binary Optimization<br /><br />Bounds: Goemans-Williamson and Nesterov<br /><br />Linearly Constrained Problems</td>
+<td>(<a href="1/lecture_03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Review: Groups, Rings, Fields<br /><br />Polynomials and Ideals</td>
+<td>(<a href="1/lecture_04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Univariate Polynomials<br /><br />Root Bounds and Sturm Sequences<br /><br />Counting Real Roots<br /><br />Nonnegativity<br /><br />Sum of Squares<br /><br />Positive Semidefinite Matrices</td>
+<td>(<a href="1/lecture_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Resultants<br /><br />Discriminants<br /><br />Applications<br /><br />The set of Nonnegative Polynomials</td>
+<td>(<a href="1/lecture_06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Hyperbolic Polynomials<br /><br />SDP Representability</td>
+<td>(<a href="1/lecture_07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>SDP Representability<br /><br />Convex Sets in R<sup>2<br /><br /></sup>Hyperbolicity and the Lax Conjecture<br /><br />Relating SDP-representable Sets and Hyperbolic Polynomials<br /><br />Characterization</td>
+<td>(<a href="1/lecture_08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Binomial Equations<br /><br />Newton Polytopes<br /><br />The B&eacute;zout and BKK Bounds<br /><br />Application: Nash Equilibria</td>
+<td>(<a href="1/lecture_09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Nonegativity and Sums of Squares<br /><br />Sums of Squares and Semidefinite Programming<br /><br />Applications and Extensions<br /><br />Multivariate Polynomials<br /><br />Duality and Density</td>
+<td>(<a href="1/lecture_10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>SOS Applications<br /><br />Moments<br /><br />Bridging the Gap</td>
+<td>(<a href="1/lecture_11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Recovering a Measure from its Moments<br /><br />A Probabilistic Interpretation<br /><br />Duality and Complementary Slackness<br /><br />Multivariate Case<br /><br />Density Results</td>
+<td>(<a href="1/lecture_12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Polynomial Ideals<br /><br />Algebraic Varieties<br /><br />Quotient Rings<br /><br />Monomial Orderings</td>
+<td>(<a href="1/lecture_13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Monomial Orderings<br /><br />Gr&ouml;bner Bases<br /><br />Applications and Examples<br /><br />Zero-dimensional Ideals</td>
+<td>(<a href="1/lecture_14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Zero-dimensional Ideals<br /><br />Hilbert Series</td>
+<td>(<a href="1/lecture_15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Generalizing the Hermite Matrix<br /><br />Parametric Versions<br /><br />SOS on Quotients</td>
+<td>(<a href="1/lecture_16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Infeasibility of Real Polynomial Equations<br /><br />Certificates<br /><br />The Zero-dimensional Case<br /><br />Optimization</td>
+<td>(<a href="1/lecture_17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Quantifier Elimination<br /><br />Tarski-Seidenberg<br /><br />Cylindrical Algebraic Decomposition (CAD)</td>
+<td>(<a href="1/lecture_18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Certificates<br /><br />Psatz Revisited<br /><br />Copositive Matrices and P&oacute;lya's Theorem<br /><br />Positive Polynomials</td>
+<td>(<a href="1/lecture_19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Positive Polynomials<br /><br />Schm&uuml;dgen's Theorem</td>
+<td>(<a href="1/lecture_20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Groups and their Representations<br /><br />Algebra Decomposition</td>
+<td>(<a href="1/lecture_21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Sums of Squares Programs and Polynomial Inequalities</td>
+<td>(<a href="1/lecture_22.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
