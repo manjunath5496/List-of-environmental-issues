@@ -342,3 +342,69 @@
 
 </br>
 
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem set 1 (<a href="1/ps1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 2 (<a href="1/ps2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 3 (<a href="1/ps3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 4 (<a href="1/ps4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 5 (<a href="1/ps5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 6 (<a href="1/ps6.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem set 1 (<a href="1/homework1.pdf">PDF</a>)</td>
+<td>(<a href="1/solution1.pdf">PDF - 1.2 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 2 (<a href="1/homework2.pdf">PDF</a>)</td>
+<td>(<a href="1/solution2.pdf">PDF - 1.3 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 3 (<a href="1/homework3.pdf">PDF</a>)</td>
+<td>(<a href="1/solution3.pdf">PDF - 1.0 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 4 (<a href="1/homework4.pdf">PDF</a>)</td>
+<td>(<a href="1/sol4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 5 (<a href="1/homework5.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/sol5.pdf">PDF - 1.1 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 6 (<a href="1/homework6.pdf">PDF</a>)</td>
+<td>(<a href="1/sol6.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
