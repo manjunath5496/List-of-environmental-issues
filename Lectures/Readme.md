@@ -1247,7 +1247,7 @@
 <td>Network Neutrality (cont.)</td>
 </tr>
 <tr class="alt-row">
-<td>IPTV (<a href="mod3d_iptv.pdf">PDF</a>) (Courtesy of Marie-Jos&eacute; Montpetit. Used with permission.)</td>
+<td>IPTV (<a href="mod3d_iptv.pdf">PDF</a>) </td>
 </tr>
 <tr class="row">
 <td colspan="2"><strong>Module 4: Miscellaneous Topics</strong></td>
